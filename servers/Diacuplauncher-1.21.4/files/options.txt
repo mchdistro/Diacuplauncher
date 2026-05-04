@@ -6,7 +6,7 @@ entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
-fov:0.0
+fov:0.325
 fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
@@ -53,7 +53,7 @@ highContrastBlockOutline:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/BM Jua.zip","file/fixed-walls.zip"]
 incompatibleResourcePacks:["modernfix","yet_another_config_lib_v3","file/BM Jua.zip"]
-lastServer:
+lastServer:aassdd889900.kr
 lang:ko_kr
 chatVisibility:0
 chatOpacity:1.0
@@ -113,7 +113,7 @@ key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.unknown
-key_key.loadToolbarActivator:key.keyboard.x
+key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
@@ -139,10 +139,10 @@ key_key.journeymap.toggle_render_waypoints_world:key.keyboard.unknown
 key_key.journeymap.toggle_render_waypoints_map:key.keyboard.unknown
 key_key.journeymap.toggle_waypoints:key.keyboard.unknown
 key_key.journeymap.fullscreen_create_waypoint:key.keyboard.b
-key_key.journeymap.fullscreen_chat_position:key.keyboard.c
-key_key.journeymap.map_toggle_alt:key.keyboard.unknown
+key_key.journeymap.fullscreen_chat_position:key.keyboard.unknown
+key_key.journeymap.map_toggle_alt:key.keyboard.j
 key_key.journeymap.fullscreen_waypoints:key.keyboard.n
-key_key.journeymap.minimap_toggle_alt:key.keyboard.j
+key_key.journeymap.minimap_toggle_alt:key.keyboard.unknown
 key_key.journeymap.fullscreen_options:key.keyboard.o
 key_key.journeymap.fullscreen.north:key.keyboard.up
 key_key.journeymap.fullscreen.south:key.keyboard.down
