@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "Diacuplauncher-1.21.4",
+      "id": "v1-1.21.4",
       "name": "Diacuplauncher",
       "description": "Minecraft 1.21.4 (Fabric v0.19.2)",
       "icon": "https://github.com/mchdistro/Diacuplauncher/raw/main/server-icon.png",
@@ -136,7 +136,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 71618,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/animatica-0.6.1+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/animatica-0.6.1+1.21.4.jar",
             "MD5": "6784b7e853dd7549089ee9378960155a"
           }
         },
@@ -146,7 +146,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 589645,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/architectury-15.0.3-fabric.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/architectury-15.0.3-fabric.jar",
             "MD5": "29796a5960d833cf95d6f46668c13d55"
           }
         },
@@ -156,7 +156,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 155059,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/BetterGrassify-1.7.0+fabric.1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/BetterGrassify-1.7.0+fabric.1.21.4.jar",
             "MD5": "f482d457c52feb292c9f2c3470d5fd5a"
           }
         },
@@ -166,7 +166,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21037,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/bettermounthud-1.2.5.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/bettermounthud-1.2.5.jar",
             "MD5": "b10108d8ecea629851725f19798c59ae"
           }
         },
@@ -176,7 +176,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 77080,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/capes-1.5.5+1.21.4-fabric.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/capes-1.5.5+1.21.4-fabric.jar",
             "MD5": "0c451f1a9397a027b270d1b2991cbb69"
           }
         },
@@ -186,7 +186,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 163711,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/caramelChat-mc1.21.1-fabric-1.2.2.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/caramelChat-mc1.21.1-fabric-1.2.2.jar",
             "MD5": "59c8ae912459442c192ff5537bf17f7a"
           }
         },
@@ -196,7 +196,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1152857,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/cloth-config-17.0.144-fabric.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/cloth-config-17.0.144-fabric.jar",
             "MD5": "07b7d5bc15bdc7387cf8890d0c460b54"
           }
         },
@@ -206,7 +206,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1001061,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/continuity-3.0.0+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/continuity-3.0.0+1.21.4.jar",
             "MD5": "cb5480ac95db653d5376ec1b41797b56"
           }
         },
@@ -216,7 +216,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 6937890,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/controlify-2.2.1+1.21.4-fabric.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/controlify-2.2.1+1.21.4-fabric.jar",
             "MD5": "285fad8d03fe8150b8b51e73101cc4dd"
           }
         },
@@ -226,7 +226,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80793,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/cwb-fabric-3.0.0+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/cwb-fabric-3.0.0+mc1.21.3.jar",
             "MD5": "4278e7e73cb1337e3a198f1c5b921887"
           }
         },
@@ -236,7 +236,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 298681,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/Debugify-1.21.4+1.1.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/Debugify-1.21.4+1.1.jar",
             "MD5": "ac404e7204331a44f93028298ca372d3"
           }
         },
@@ -246,7 +246,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 191899,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/dynamic-fps-3.9.5+minecraft-1.21.2-fabric.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/dynamic-fps-3.9.5+minecraft-1.21.2-fabric.jar",
             "MD5": "a018fcc8b46768ef5631e4af2a9b19a5"
           }
         },
@@ -256,7 +256,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 575182,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/e4mc_minecraft-fabric-5.3.1.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/e4mc_minecraft-fabric-5.3.1.jar",
             "MD5": "dae00ffff6f6a3b339d6ae54aed3dbeb"
           }
         },
@@ -266,7 +266,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 207442,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/enhancedblockentities-0.11.3+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/enhancedblockentities-0.11.3+1.21.4.jar",
             "MD5": "b55aa40f603248f4cb476ee3cd4f8c4d"
           }
         },
@@ -276,7 +276,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 448076,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/entity_model_features_fabric_1.21.4-2.4.1.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/entity_model_features_fabric_1.21.4-2.4.1.jar",
             "MD5": "9cc1a837a6efdb2b6a1a9551ef0ede02"
           }
         },
@@ -286,7 +286,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 651894,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/entity_texture_features_fabric_1.21.4-6.2.10.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/entity_texture_features_fabric_1.21.4-6.2.10.jar",
             "MD5": "9be40af3c19984cc4cffaf5e3fc2b898"
           }
         },
@@ -296,7 +296,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 465405,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/entityculling-fabric-1.8.0-mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/entityculling-fabric-1.8.0-mc1.21.4.jar",
             "MD5": "f37ecba4b0221bd88113294be635e702"
           }
         },
@@ -306,7 +306,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2149128,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
             "MD5": "128a8d042180e7c92567342e21a21a6d"
           }
         },
@@ -316,7 +316,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7387359,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
             "MD5": "5edf1cfa6574e3e1e38c2e4f1b5a557e"
           }
         },
@@ -326,7 +326,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 54322,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/fabrishot-1.14.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/fabrishot-1.14.4.jar",
             "MD5": "20547cddf794a830d157f653fa75f374"
           }
         },
@@ -336,7 +336,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 59241,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/fastquit-3.0.0+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/fastquit-3.0.0+1.21.4.jar",
             "MD5": "62c945b46c98733edbd2488a4d967be2"
           }
         },
@@ -346,7 +346,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 107026,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/ferritecore-7.1.1-fabric.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/ferritecore-7.1.1-fabric.jar",
             "MD5": "cddea62080b823c0c55f72408a0c3ffb"
           }
         },
@@ -356,7 +356,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 641130,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/ForgeConfigAPIPort-v21.4.1-1.21.4-Fabric.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/ForgeConfigAPIPort-v21.4.1-1.21.4-Fabric.jar",
             "MD5": "4fbb75a4aa1d649263b1e14a8a11c5ea"
           }
         },
@@ -366,7 +366,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 227072,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/ImmediatelyFast-Fabric-1.8.0+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/ImmediatelyFast-Fabric-1.8.0+1.21.4.jar",
             "MD5": "6ca4f1eda15f81f3336debc0e49d1275"
           }
         },
@@ -376,7 +376,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
           }
         },
@@ -386,7 +386,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3514384,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
             "MD5": "3893e727701bc66b4f3dbd80a434282d"
           }
         },
@@ -396,7 +396,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1038224,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/lambdynamiclights-4.1.3+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/lambdynamiclights-4.1.3+1.21.4.jar",
             "MD5": "98e4a366c817980aa3c1bc490b3b68d1"
           }
         },
@@ -406,7 +406,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 74922,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/language-reload-1.7.4+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/language-reload-1.7.4+1.21.4.jar",
             "MD5": "09b5b8f44a5657c1c3be83abb7717e27"
           }
         },
@@ -416,7 +416,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 797555,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/lithium-fabric-0.15.3+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/lithium-fabric-0.15.3+mc1.21.4.jar",
             "MD5": "7a3a807eed9c4868fbe14cecd8bb082d"
           }
         },
@@ -426,7 +426,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14858,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/main-menu-credits-1.2.0.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/main-menu-credits-1.2.0.jar",
             "MD5": "a385e65575d63ca0d2b4635c6a398047"
           }
         },
@@ -436,7 +436,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 36039,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/mixintrace-1.1.1+1.17.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/mixintrace-1.1.1+1.17.jar",
             "MD5": "25673336ece740d8127ae7525bc0cd4f"
           }
         },
@@ -446,7 +446,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 66412,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/modelfix-1.21.3-1.10-fabric.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/modelfix-1.21.3-1.10-fabric.jar",
             "MD5": "8e44b12c5c24a4303f45e73e40c162f2"
           }
         },
@@ -456,7 +456,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 436498,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/modernfix-fabric-5.20.3+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/modernfix-fabric-5.20.3+mc1.21.4.jar",
             "MD5": "1bee2326edcced182b86154e44810971"
           }
         },
@@ -466,7 +466,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1050777,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/modmenu-13.0.3.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/modmenu-13.0.3.jar",
             "MD5": "e8884b37fe775f30a0121c4fbdfb32ac"
           }
         },
@@ -476,7 +476,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3573,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/morechathistory-1.3.1.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/morechathistory-1.3.1.jar",
             "MD5": "cd040faa8025103baf571a3ce15d4a8a"
           }
         },
@@ -486,7 +486,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 349756,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/moreculling-fabric-1.21.4-1.2.10.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/moreculling-fabric-1.21.4-1.2.10.jar",
             "MD5": "4d4f463130f91324c42ccae8e2bac42c"
           }
         },
@@ -496,7 +496,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 612531,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/optigui-2.3.0-beta.7+1.21.2.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/optigui-2.3.0-beta.7+1.21.2.jar",
             "MD5": "42da33c6b9e43f982812eaea0c71d81a"
           }
         },
@@ -506,7 +506,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 81111,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/paginatedadvancements-2.6.1+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/paginatedadvancements-2.6.1+1.21.4.jar",
             "MD5": "cfb8295bd91b79c2bbbbe66595f833cb"
           }
         },
@@ -516,7 +516,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12262201,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.9.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.9.jar",
             "MD5": "f2110c9358f3e5886246bf5030e10dd6"
           }
         },
@@ -526,7 +526,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 765015,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/polytone-1.21.4-3.3.22-fabric.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/polytone-1.21.4-3.3.22-fabric.jar",
             "MD5": "eecc29b74e4b660c893ee73998c7950e"
           }
         },
@@ -536,7 +536,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 139236,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/puzzle-fabric-2.0.5+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/puzzle-fabric-2.0.5+1.21.4.jar",
             "MD5": "a38c294f05c2ea7474d11322d6a17dc3"
           }
         },
@@ -546,7 +546,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 81067,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
             "MD5": "85f69ebd3bde2559ee53c01daa8e361e"
           }
         },
@@ -556,7 +556,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2497700,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/RoughlyEnoughItems-18.0.808-fabric.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/RoughlyEnoughItems-18.0.808-fabric.jar",
             "MD5": "6e8cdd24eb1082cf1bf3bf50f5aa4b48"
           }
         },
@@ -566,7 +566,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 190678,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/rrls-5.1.2+mc1.21.4-fabric.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/rrls-5.1.2+mc1.21.4-fabric.jar",
             "MD5": "c1f702e842cfa736397a41bbf42f6482"
           }
         },
@@ -576,7 +576,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 360180,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/sodium-extra-fabric-0.6.1+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/sodium-extra-fabric-0.6.1+mc1.21.4.jar",
             "MD5": "4d43b252c771523c6e0a219e9eadd63b"
           }
         },
@@ -586,7 +586,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -596,7 +596,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1123237,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/yet_another_config_lib_v3-3.7.1+1.21.4-fabric.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/yet_another_config_lib_v3-3.7.1+1.21.4-fabric.jar",
             "MD5": "a2e829d25903c1faf3d55eca6bad1f52"
           }
         },
@@ -606,7 +606,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 17373,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/yosbr-0.1.2.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/yosbr-0.1.2.jar",
             "MD5": "9fcce225f25b6fd17921c87ff1c720f1"
           }
         },
@@ -616,7 +616,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 807977,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/fabricmods/required/Zoomify-2.14.2+1.21.3.jar",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/fabricmods/required/Zoomify-2.14.2+1.21.3.jar",
             "MD5": "3b501d83e685e5cc6c7a2e339145434a"
           }
         },
@@ -626,7 +626,7 @@
           "type": "File",
           "artifact": {
             "size": 918,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/bettergrass.json5",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/bettergrass.json5",
             "path": "config/bettergrass.json5"
           }
         },
@@ -636,7 +636,7 @@
           "type": "File",
           "artifact": {
             "size": 207,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/capes.json5",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/capes.json5",
             "path": "config/capes.json5"
           }
         },
@@ -646,7 +646,7 @@
           "type": "File",
           "artifact": {
             "size": 22,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/citresewn.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/citresewn.json",
             "path": "config/citresewn.json"
           }
         },
@@ -656,7 +656,7 @@
           "type": "File",
           "artifact": {
             "size": 92,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/continuity.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/continuity.json",
             "path": "config/continuity.json"
           }
         },
@@ -666,7 +666,7 @@
           "type": "File",
           "artifact": {
             "size": 500,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/controlify.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/controlify.json",
             "path": "config/controlify.json"
           }
         },
@@ -676,7 +676,7 @@
           "type": "File",
           "artifact": {
             "size": 202,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/cubes-without-borders.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/cubes-without-borders.json",
             "path": "config/cubes-without-borders.json"
           }
         },
@@ -686,7 +686,7 @@
           "type": "File",
           "artifact": {
             "size": 266,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/debugify.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/debugify.json",
             "path": "config/debugify.json"
           }
         },
@@ -696,7 +696,7 @@
           "type": "File",
           "artifact": {
             "size": 253,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/dynamic_fps.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/dynamic_fps.json",
             "path": "config/dynamic_fps.json"
           }
         },
@@ -706,7 +706,7 @@
           "type": "File",
           "artifact": {
             "size": 532,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/enhanced_bes.properties",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/enhanced_bes.properties",
             "path": "config/enhanced_bes.properties"
           }
         },
@@ -716,7 +716,7 @@
           "type": "File",
           "artifact": {
             "size": 1809,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/entityculling.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/entityculling.json",
             "path": "config/entityculling.json"
           }
         },
@@ -726,7 +726,7 @@
           "type": "File",
           "artifact": {
             "size": 1080,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/entity_model_features.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/entity_model_features.json",
             "path": "config/entity_model_features.json"
           }
         },
@@ -736,7 +736,7 @@
           "type": "File",
           "artifact": {
             "size": 1412,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/entity_texture_features.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/entity_texture_features.json",
             "path": "config/entity_texture_features.json"
           }
         },
@@ -746,7 +746,7 @@
           "type": "File",
           "artifact": {
             "size": 28,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/etf_warnings.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/etf_warnings.json",
             "path": "config/etf_warnings.json"
           }
         },
@@ -756,7 +756,7 @@
           "type": "File",
           "artifact": {
             "size": 146,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/fabric_loader_dependencies.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/fabric_loader_dependencies.json",
             "path": "config/fabric_loader_dependencies.json"
           }
         },
@@ -766,7 +766,7 @@
           "type": "File",
           "artifact": {
             "size": 167,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/fabrishot.properties",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/fabrishot.properties",
             "path": "config/fabrishot.properties"
           }
         },
@@ -776,7 +776,7 @@
           "type": "File",
           "artifact": {
             "size": 123,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/fastquit.toml",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/fastquit.toml",
             "path": "config/fastquit.toml"
           }
         },
@@ -786,7 +786,7 @@
           "type": "File",
           "artifact": {
             "size": 1525,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/ferritecore.mixin.properties",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/ferritecore.mixin.properties",
             "path": "config/ferritecore.mixin.properties"
           }
         },
@@ -796,7 +796,7 @@
           "type": "File",
           "artifact": {
             "size": 1108,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/immediatelyfast.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/immediatelyfast.json",
             "path": "config/immediatelyfast.json"
           }
         },
@@ -806,7 +806,7 @@
           "type": "File",
           "artifact": {
             "size": 314,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/iris.properties",
             "path": "config/iris.properties"
           }
         },
@@ -816,7 +816,7 @@
           "type": "File",
           "artifact": {
             "size": 161,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/lambdynlights.toml",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/lambdynlights.toml",
             "path": "config/lambdynlights.toml"
           }
         },
@@ -826,7 +826,7 @@
           "type": "File",
           "artifact": {
             "size": 206,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/languagereload.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/languagereload.json",
             "path": "config/languagereload.json"
           }
         },
@@ -836,7 +836,7 @@
           "type": "File",
           "artifact": {
             "size": 30,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/midnightlib.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/midnightlib.json",
             "path": "config/midnightlib.json"
           }
         },
@@ -846,7 +846,7 @@
           "type": "File",
           "artifact": {
             "size": 347,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/modelfix-client.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/modelfix-client.json",
             "path": "config/modelfix-client.json"
           }
         },
@@ -856,7 +856,7 @@
           "type": "File",
           "artifact": {
             "size": 3449,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/modernfix-mixins.properties",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/modernfix-mixins.properties",
             "path": "config/modernfix-mixins.properties"
           }
         },
@@ -866,7 +866,7 @@
           "type": "File",
           "artifact": {
             "size": 1002,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/modmenu.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/modmenu.json",
             "path": "config/modmenu.json"
           }
         },
@@ -876,7 +876,7 @@
           "type": "File",
           "artifact": {
             "size": 538,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/moreculling.toml",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/moreculling.toml",
             "path": "config/moreculling.toml"
           }
         },
@@ -886,7 +886,7 @@
           "type": "File",
           "artifact": {
             "size": 572,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/NoChatReports/NCR-Client.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/NoChatReports/NCR-Client.json",
             "path": "config/NoChatReports/NCR-Client.json"
           }
         },
@@ -896,7 +896,7 @@
           "type": "File",
           "artifact": {
             "size": 231,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/NoChatReports/NCR-Common.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/NoChatReports/NCR-Common.json",
             "path": "config/NoChatReports/NCR-Common.json"
           }
         },
@@ -906,7 +906,7 @@
           "type": "File",
           "artifact": {
             "size": 522,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/NoChatReports/NCR-Encryption.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/NoChatReports/NCR-Encryption.json",
             "path": "config/NoChatReports/NCR-Encryption.json"
           }
         },
@@ -916,7 +916,7 @@
           "type": "File",
           "artifact": {
             "size": 315,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/PaginatedAdvancements.json5",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/PaginatedAdvancements.json5",
             "path": "config/PaginatedAdvancements.json5"
           }
         },
@@ -926,7 +926,7 @@
           "type": "File",
           "artifact": {
             "size": 1163,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/plasmovoice/client.toml",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/plasmovoice/client.toml",
             "path": "config/plasmovoice/client.toml"
           }
         },
@@ -936,7 +936,7 @@
           "type": "File",
           "artifact": {
             "size": 536,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/puzzle.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/puzzle.json",
             "path": "config/puzzle.json"
           }
         },
@@ -946,7 +946,7 @@
           "type": "File",
           "artifact": {
             "size": 46,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/roughlyenoughitems/collapsible.json5",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/roughlyenoughitems/collapsible.json5",
             "path": "config/roughlyenoughitems/collapsible.json5"
           }
         },
@@ -956,7 +956,7 @@
           "type": "File",
           "artifact": {
             "size": 6351,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/roughlyenoughitems/config.json5",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/roughlyenoughitems/config.json5",
             "path": "config/roughlyenoughitems/config.json5"
           }
         },
@@ -966,7 +966,7 @@
           "type": "File",
           "artifact": {
             "size": 61,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/roughlyenoughitems/favorites.json5",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/roughlyenoughitems/favorites.json5",
             "path": "config/roughlyenoughitems/favorites.json5"
           }
         },
@@ -976,7 +976,7 @@
           "type": "File",
           "artifact": {
             "size": 63,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/roughlyenoughitems/hints.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/roughlyenoughitems/hints.json",
             "path": "config/roughlyenoughitems/hints.json"
           }
         },
@@ -986,7 +986,7 @@
           "type": "File",
           "artifact": {
             "size": 48,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/roughlyenoughitems/pinyin.properties",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/roughlyenoughitems/pinyin.properties",
             "path": "config/roughlyenoughitems/pinyin.properties"
           }
         },
@@ -996,7 +996,7 @@
           "type": "File",
           "artifact": {
             "size": 73,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/roughlyenoughitems/pinyin_double.properties",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/roughlyenoughitems/pinyin_double.properties",
             "path": "config/roughlyenoughitems/pinyin_double.properties"
           }
         },
@@ -1006,7 +1006,7 @@
           "type": "File",
           "artifact": {
             "size": 1000,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/rrls.toml",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/rrls.toml",
             "path": "config/rrls.toml"
           }
         },
@@ -1016,7 +1016,7 @@
           "type": "File",
           "artifact": {
             "size": 1486,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/sodium-extra-options.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/sodium-extra-options.json",
             "path": "config/sodium-extra-options.json"
           }
         },
@@ -1026,7 +1026,7 @@
           "type": "File",
           "artifact": {
             "size": 360,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/sodium-extra.properties",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/sodium-extra.properties",
             "path": "config/sodium-extra.properties"
           }
         },
@@ -1036,7 +1036,7 @@
           "type": "File",
           "artifact": {
             "size": 682,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/sodium-options.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/sodium-options.json",
             "path": "config/sodium-options.json"
           }
         },
@@ -1046,7 +1046,7 @@
           "type": "File",
           "artifact": {
             "size": 207,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/capes.json5",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/capes.json5",
             "path": "config/yosbr/config/capes.json5"
           }
         },
@@ -1056,7 +1056,7 @@
           "type": "File",
           "artifact": {
             "size": 22,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/citresewn.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/citresewn.json",
             "path": "config/yosbr/config/citresewn.json"
           }
         },
@@ -1066,7 +1066,7 @@
           "type": "File",
           "artifact": {
             "size": 266,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/debugify.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/debugify.json",
             "path": "config/yosbr/config/debugify.json"
           }
         },
@@ -1076,7 +1076,7 @@
           "type": "File",
           "artifact": {
             "size": 253,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/dynamic_fps.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/dynamic_fps.json",
             "path": "config/yosbr/config/dynamic_fps.json"
           }
         },
@@ -1086,7 +1086,7 @@
           "type": "File",
           "artifact": {
             "size": 148,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/entity_texture_features.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/entity_texture_features.json",
             "path": "config/yosbr/config/entity_texture_features.json"
           }
         },
@@ -1096,7 +1096,7 @@
           "type": "File",
           "artifact": {
             "size": 167,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/fabrishot.properties",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/fabrishot.properties",
             "path": "config/yosbr/config/fabrishot.properties"
           }
         },
@@ -1106,7 +1106,7 @@
           "type": "File",
           "artifact": {
             "size": 99,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/fastquit.toml",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/fastquit.toml",
             "path": "config/yosbr/config/fastquit.toml"
           }
         },
@@ -1116,7 +1116,7 @@
           "type": "File",
           "artifact": {
             "size": 73,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/iris.properties",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/iris.properties",
             "path": "config/yosbr/config/iris.properties"
           }
         },
@@ -1126,7 +1126,7 @@
           "type": "File",
           "artifact": {
             "size": 187,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/isxander-main-menu-credits.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/isxander-main-menu-credits.json",
             "path": "config/yosbr/config/isxander-main-menu-credits.json"
           }
         },
@@ -1136,7 +1136,7 @@
           "type": "File",
           "artifact": {
             "size": 161,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/lambdynlights.toml",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/lambdynlights.toml",
             "path": "config/yosbr/config/lambdynlights.toml"
           }
         },
@@ -1146,7 +1146,7 @@
           "type": "File",
           "artifact": {
             "size": 30,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/midnightlib.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/midnightlib.json",
             "path": "config/yosbr/config/midnightlib.json"
           }
         },
@@ -1156,7 +1156,7 @@
           "type": "File",
           "artifact": {
             "size": 34,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/modernfix-mixins.properties",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/modernfix-mixins.properties",
             "path": "config/yosbr/config/modernfix-mixins.properties"
           }
         },
@@ -1166,7 +1166,7 @@
           "type": "File",
           "artifact": {
             "size": 553,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/moreculling.toml",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/moreculling.toml",
             "path": "config/yosbr/config/moreculling.toml"
           }
         },
@@ -1176,7 +1176,7 @@
           "type": "File",
           "artifact": {
             "size": 477,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/NoChatReports/NCR-Client.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/NoChatReports/NCR-Client.json",
             "path": "config/yosbr/config/NoChatReports/NCR-Client.json"
           }
         },
@@ -1186,7 +1186,7 @@
           "type": "File",
           "artifact": {
             "size": 96,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/NoChatReports/NCR-Common.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/NoChatReports/NCR-Common.json",
             "path": "config/yosbr/config/NoChatReports/NCR-Common.json"
           }
         },
@@ -1196,7 +1196,7 @@
           "type": "File",
           "artifact": {
             "size": 128,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/NoChatReports/NCR-Encryption.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/NoChatReports/NCR-Encryption.json",
             "path": "config/yosbr/config/NoChatReports/NCR-Encryption.json"
           }
         },
@@ -1206,7 +1206,7 @@
           "type": "File",
           "artifact": {
             "size": 284,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/PaginatedAdvancements.json5",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/PaginatedAdvancements.json5",
             "path": "config/yosbr/config/PaginatedAdvancements.json5"
           }
         },
@@ -1216,7 +1216,7 @@
           "type": "File",
           "artifact": {
             "size": 217,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/puzzle.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/puzzle.json",
             "path": "config/yosbr/config/puzzle.json"
           }
         },
@@ -1226,7 +1226,7 @@
           "type": "File",
           "artifact": {
             "size": 1000,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/rrls.toml",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/rrls.toml",
             "path": "config/yosbr/config/rrls.toml"
           }
         },
@@ -1236,7 +1236,7 @@
           "type": "File",
           "artifact": {
             "size": 38,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/yosbr/config/sodium-options.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/yosbr/config/sodium-options.json",
             "path": "config/yosbr/config/sodium-options.json"
           }
         },
@@ -1246,7 +1246,7 @@
           "type": "File",
           "artifact": {
             "size": 713,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/config/zoomify.json",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/config/zoomify.json",
             "path": "config/zoomify.json"
           }
         },
@@ -1256,7 +1256,7 @@
           "type": "File",
           "artifact": {
             "size": 2689,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
             "path": "journeymap/config/6.0/journeymap.core.config"
           }
         },
@@ -1266,7 +1266,7 @@
           "type": "File",
           "artifact": {
             "size": 1304,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/config/6.0/journeymap.fullmap.config",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.fullmap.config",
             "path": "journeymap/config/6.0/journeymap.fullmap.config"
           }
         },
@@ -1276,7 +1276,7 @@
           "type": "File",
           "artifact": {
             "size": 2305,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
             "path": "journeymap/config/6.0/journeymap.minimap.config"
           }
         },
@@ -1286,7 +1286,7 @@
           "type": "File",
           "artifact": {
             "size": 2316,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/config/6.0/journeymap.minimap2.config",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.minimap2.config",
             "path": "journeymap/config/6.0/journeymap.minimap2.config"
           }
         },
@@ -1296,7 +1296,7 @@
           "type": "File",
           "artifact": {
             "size": 671,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/config/6.0/journeymap.rendering.config",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.rendering.config",
             "path": "journeymap/config/6.0/journeymap.rendering.config"
           }
         },
@@ -1306,7 +1306,7 @@
           "type": "File",
           "artifact": {
             "size": 971,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/config/6.0/journeymap.topo.config",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.topo.config",
             "path": "journeymap/config/6.0/journeymap.topo.config"
           }
         },
@@ -1316,7 +1316,7 @@
           "type": "File",
           "artifact": {
             "size": 1235,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/config/6.0/journeymap.waypoint.config",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.waypoint.config",
             "path": "journeymap/config/6.0/journeymap.waypoint.config"
           }
         },
@@ -1326,7 +1326,7 @@
           "type": "File",
           "artifact": {
             "size": 162,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/config/6.0/journeymap.webmap.config",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.webmap.config",
             "path": "journeymap/config/6.0/journeymap.webmap.config"
           }
         },
@@ -1336,7 +1336,7 @@
           "type": "File",
           "artifact": {
             "size": 38606,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/4/-1,-1.png"
           }
         },
@@ -1346,7 +1346,7 @@
           "type": "File",
           "artifact": {
             "size": 38979,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/-1,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/-1,0.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/4/-1,0.png"
           }
         },
@@ -1356,7 +1356,7 @@
           "type": "File",
           "artifact": {
             "size": 18615,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/4/0,-1.png"
           }
         },
@@ -1366,7 +1366,7 @@
           "type": "File",
           "artifact": {
             "size": 25414,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/4/0,0.png"
           }
         },
@@ -1376,7 +1376,7 @@
           "type": "File",
           "artifact": {
             "size": 1112912,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/cache/r.-1.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/cache/r.-1.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/4/cache/r.-1.-1.mca"
           }
         },
@@ -1386,7 +1386,7 @@
           "type": "File",
           "artifact": {
             "size": 882761,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/cache/r.-1.0.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/cache/r.-1.0.mca",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/4/cache/r.-1.0.mca"
           }
         },
@@ -1396,7 +1396,7 @@
           "type": "File",
           "artifact": {
             "size": 416071,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/cache/r.0.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/cache/r.0.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/4/cache/r.0.-1.mca"
           }
         },
@@ -1406,7 +1406,7 @@
           "type": "File",
           "artifact": {
             "size": 232382,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/cache/r.0.0.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/4/cache/r.0.0.mca",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/4/cache/r.0.0.mca"
           }
         },
@@ -1416,7 +1416,7 @@
           "type": "File",
           "artifact": {
             "size": 12365,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/biome/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/biome/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/biome/-1,-1.png"
           }
         },
@@ -1426,7 +1426,7 @@
           "type": "File",
           "artifact": {
             "size": 12000,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/biome/-1,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/biome/-1,0.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/biome/-1,0.png"
           }
         },
@@ -1436,7 +1436,7 @@
           "type": "File",
           "artifact": {
             "size": 12136,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/biome/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/biome/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/biome/0,-1.png"
           }
         },
@@ -1446,7 +1446,7 @@
           "type": "File",
           "artifact": {
             "size": 13444,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/biome/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/biome/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/biome/0,0.png"
           }
         },
@@ -1456,7 +1456,7 @@
           "type": "File",
           "artifact": {
             "size": 1136827,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/cache/r.-1.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/cache/r.-1.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/cache/r.-1.-1.mca"
           }
         },
@@ -1466,7 +1466,7 @@
           "type": "File",
           "artifact": {
             "size": 931754,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/cache/r.-1.0.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/cache/r.-1.0.mca",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/cache/r.-1.0.mca"
           }
         },
@@ -1476,7 +1476,7 @@
           "type": "File",
           "artifact": {
             "size": 1099067,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/cache/r.0.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/cache/r.0.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/cache/r.0.-1.mca"
           }
         },
@@ -1486,7 +1486,7 @@
           "type": "File",
           "artifact": {
             "size": 612487,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/cache/r.0.0.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/cache/r.0.0.mca",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/cache/r.0.0.mca"
           }
         },
@@ -1496,7 +1496,7 @@
           "type": "File",
           "artifact": {
             "size": 48396,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/day/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/day/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/day/-1,-1.png"
           }
         },
@@ -1506,7 +1506,7 @@
           "type": "File",
           "artifact": {
             "size": 38864,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/day/-1,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/day/-1,0.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/day/-1,0.png"
           }
         },
@@ -1516,7 +1516,7 @@
           "type": "File",
           "artifact": {
             "size": 44640,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/day/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/day/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/day/0,-1.png"
           }
         },
@@ -1526,7 +1526,7 @@
           "type": "File",
           "artifact": {
             "size": 40927,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/day/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/day/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/day/0,0.png"
           }
         },
@@ -1536,7 +1536,7 @@
           "type": "File",
           "artifact": {
             "size": 60514,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/night/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/night/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/night/-1,-1.png"
           }
         },
@@ -1546,7 +1546,7 @@
           "type": "File",
           "artifact": {
             "size": 49945,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/night/-1,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/night/-1,0.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/night/-1,0.png"
           }
         },
@@ -1556,7 +1556,7 @@
           "type": "File",
           "artifact": {
             "size": 49675,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/night/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/night/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/night/0,-1.png"
           }
         },
@@ -1566,7 +1566,7 @@
           "type": "File",
           "artifact": {
             "size": 47309,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/night/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/night/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/night/0,0.png"
           }
         },
@@ -1576,7 +1576,7 @@
           "type": "File",
           "artifact": {
             "size": 20384,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/topo/-1,-1.png"
           }
         },
@@ -1586,7 +1586,7 @@
           "type": "File",
           "artifact": {
             "size": 18716,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/-1,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/-1,0.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/topo/-1,0.png"
           }
         },
@@ -1596,7 +1596,7 @@
           "type": "File",
           "artifact": {
             "size": 19348,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/topo/0,-1.png"
           }
         },
@@ -1606,7 +1606,7 @@
           "type": "File",
           "artifact": {
             "size": 18387,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/topo/0,0.png"
           }
         },
@@ -1616,7 +1616,7 @@
           "type": "File",
           "artifact": {
             "size": 1136739,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/cache/r.-1.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/cache/r.-1.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/topo/cache/r.-1.-1.mca"
           }
         },
@@ -1626,7 +1626,7 @@
           "type": "File",
           "artifact": {
             "size": 931709,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/cache/r.-1.0.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/cache/r.-1.0.mca",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/topo/cache/r.-1.0.mca"
           }
         },
@@ -1636,7 +1636,7 @@
           "type": "File",
           "artifact": {
             "size": 1099056,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/cache/r.0.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/cache/r.0.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/topo/cache/r.0.-1.mca"
           }
         },
@@ -1646,7 +1646,7 @@
           "type": "File",
           "artifact": {
             "size": 612497,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/cache/r.0.0.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/cuplobby/topo/cache/r.0.0.mca",
             "path": "journeymap/data/mp/Minecraft~/cuplobby/topo/cache/r.0.0.mca"
           }
         },
@@ -1656,7 +1656,7 @@
           "type": "File",
           "artifact": {
             "size": 11259,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/biome/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/biome/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/house/biome/-1,-1.png"
           }
         },
@@ -1666,7 +1666,7 @@
           "type": "File",
           "artifact": {
             "size": 10878,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/biome/-1,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/biome/-1,0.png",
             "path": "journeymap/data/mp/Minecraft~/house/biome/-1,0.png"
           }
         },
@@ -1676,7 +1676,7 @@
           "type": "File",
           "artifact": {
             "size": 11030,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/biome/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/biome/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/house/biome/0,-1.png"
           }
         },
@@ -1686,7 +1686,7 @@
           "type": "File",
           "artifact": {
             "size": 10804,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/biome/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/biome/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/house/biome/0,0.png"
           }
         },
@@ -1696,7 +1696,7 @@
           "type": "File",
           "artifact": {
             "size": 861835,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/cache/r.-1.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/cache/r.-1.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/house/cache/r.-1.-1.mca"
           }
         },
@@ -1706,7 +1706,7 @@
           "type": "File",
           "artifact": {
             "size": 623637,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/cache/r.-1.0.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/cache/r.-1.0.mca",
             "path": "journeymap/data/mp/Minecraft~/house/cache/r.-1.0.mca"
           }
         },
@@ -1716,7 +1716,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/cache/r.-2.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/cache/r.-2.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/house/cache/r.-2.-1.mca"
           }
         },
@@ -1726,7 +1726,7 @@
           "type": "File",
           "artifact": {
             "size": 832929,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/cache/r.0.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/cache/r.0.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/house/cache/r.0.-1.mca"
           }
         },
@@ -1736,7 +1736,7 @@
           "type": "File",
           "artifact": {
             "size": 480458,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/cache/r.0.0.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/cache/r.0.0.mca",
             "path": "journeymap/data/mp/Minecraft~/house/cache/r.0.0.mca"
           }
         },
@@ -1746,7 +1746,7 @@
           "type": "File",
           "artifact": {
             "size": 22828,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/day/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/day/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/house/day/-1,-1.png"
           }
         },
@@ -1756,7 +1756,7 @@
           "type": "File",
           "artifact": {
             "size": 15129,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/day/-1,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/day/-1,0.png",
             "path": "journeymap/data/mp/Minecraft~/house/day/-1,0.png"
           }
         },
@@ -1766,7 +1766,7 @@
           "type": "File",
           "artifact": {
             "size": 19314,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/day/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/day/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/house/day/0,-1.png"
           }
         },
@@ -1776,7 +1776,7 @@
           "type": "File",
           "artifact": {
             "size": 14397,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/day/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/day/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/house/day/0,0.png"
           }
         },
@@ -1786,7 +1786,7 @@
           "type": "File",
           "artifact": {
             "size": 21279,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/night/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/night/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/house/night/-1,-1.png"
           }
         },
@@ -1796,7 +1796,7 @@
           "type": "File",
           "artifact": {
             "size": 14864,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/night/-1,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/night/-1,0.png",
             "path": "journeymap/data/mp/Minecraft~/house/night/-1,0.png"
           }
         },
@@ -1806,7 +1806,7 @@
           "type": "File",
           "artifact": {
             "size": 18537,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/night/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/night/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/house/night/0,-1.png"
           }
         },
@@ -1816,7 +1816,7 @@
           "type": "File",
           "artifact": {
             "size": 14259,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/night/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/night/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/house/night/0,0.png"
           }
         },
@@ -1826,7 +1826,7 @@
           "type": "File",
           "artifact": {
             "size": 13584,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/house/topo/-1,-1.png"
           }
         },
@@ -1836,7 +1836,7 @@
           "type": "File",
           "artifact": {
             "size": 11508,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/-1,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/-1,0.png",
             "path": "journeymap/data/mp/Minecraft~/house/topo/-1,0.png"
           }
         },
@@ -1846,7 +1846,7 @@
           "type": "File",
           "artifact": {
             "size": 12841,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/house/topo/0,-1.png"
           }
         },
@@ -1856,7 +1856,7 @@
           "type": "File",
           "artifact": {
             "size": 11199,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/house/topo/0,0.png"
           }
         },
@@ -1866,7 +1866,7 @@
           "type": "File",
           "artifact": {
             "size": 861923,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/cache/r.-1.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/cache/r.-1.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/house/topo/cache/r.-1.-1.mca"
           }
         },
@@ -1876,7 +1876,7 @@
           "type": "File",
           "artifact": {
             "size": 624127,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/cache/r.-1.0.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/cache/r.-1.0.mca",
             "path": "journeymap/data/mp/Minecraft~/house/topo/cache/r.-1.0.mca"
           }
         },
@@ -1886,7 +1886,7 @@
           "type": "File",
           "artifact": {
             "size": 832948,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/cache/r.0.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/cache/r.0.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/house/topo/cache/r.0.-1.mca"
           }
         },
@@ -1896,7 +1896,7 @@
           "type": "File",
           "artifact": {
             "size": 480975,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/cache/r.0.0.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/house/topo/cache/r.0.0.mca",
             "path": "journeymap/data/mp/Minecraft~/house/topo/cache/r.0.0.mca"
           }
         },
@@ -1906,7 +1906,7 @@
           "type": "File",
           "artifact": {
             "size": 10413,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/biome/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/biome/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/overworld/biome/-1,-1.png"
           }
         },
@@ -1916,7 +1916,7 @@
           "type": "File",
           "artifact": {
             "size": 10845,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/biome/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/biome/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/overworld/biome/0,-1.png"
           }
         },
@@ -1926,7 +1926,7 @@
           "type": "File",
           "artifact": {
             "size": 10323,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/biome/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/biome/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/overworld/biome/0,0.png"
           }
         },
@@ -1936,7 +1936,7 @@
           "type": "File",
           "artifact": {
             "size": 41544,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/cache/r.-1.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/cache/r.-1.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/overworld/cache/r.-1.-1.mca"
           }
         },
@@ -1946,7 +1946,7 @@
           "type": "File",
           "artifact": {
             "size": 266827,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/cache/r.0.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/cache/r.0.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/overworld/cache/r.0.-1.mca"
           }
         },
@@ -1956,7 +1956,7 @@
           "type": "File",
           "artifact": {
             "size": 37417,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/cache/r.0.0.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/cache/r.0.0.mca",
             "path": "journeymap/data/mp/Minecraft~/overworld/cache/r.0.0.mca"
           }
         },
@@ -1966,7 +1966,7 @@
           "type": "File",
           "artifact": {
             "size": 11024,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/day/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/day/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/overworld/day/-1,-1.png"
           }
         },
@@ -1976,7 +1976,7 @@
           "type": "File",
           "artifact": {
             "size": 21547,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/day/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/day/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/overworld/day/0,-1.png"
           }
         },
@@ -1986,7 +1986,7 @@
           "type": "File",
           "artifact": {
             "size": 10702,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/day/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/day/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/overworld/day/0,0.png"
           }
         },
@@ -1996,7 +1996,7 @@
           "type": "File",
           "artifact": {
             "size": 11010,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/night/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/night/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/overworld/night/-1,-1.png"
           }
         },
@@ -2006,7 +2006,7 @@
           "type": "File",
           "artifact": {
             "size": 23069,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/night/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/night/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/overworld/night/0,-1.png"
           }
         },
@@ -2016,7 +2016,7 @@
           "type": "File",
           "artifact": {
             "size": 10652,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/night/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/night/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/overworld/night/0,0.png"
           }
         },
@@ -2026,7 +2026,7 @@
           "type": "File",
           "artifact": {
             "size": 10615,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/topo/-1,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/topo/-1,-1.png",
             "path": "journeymap/data/mp/Minecraft~/overworld/topo/-1,-1.png"
           }
         },
@@ -2036,7 +2036,7 @@
           "type": "File",
           "artifact": {
             "size": 13722,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/topo/0,-1.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/topo/0,-1.png",
             "path": "journeymap/data/mp/Minecraft~/overworld/topo/0,-1.png"
           }
         },
@@ -2046,7 +2046,7 @@
           "type": "File",
           "artifact": {
             "size": 10670,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/topo/0,0.png",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/topo/0,0.png",
             "path": "journeymap/data/mp/Minecraft~/overworld/topo/0,0.png"
           }
         },
@@ -2056,7 +2056,7 @@
           "type": "File",
           "artifact": {
             "size": 29931,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/topo/cache/r.-1.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/topo/cache/r.-1.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/overworld/topo/cache/r.-1.-1.mca"
           }
         },
@@ -2066,7 +2066,7 @@
           "type": "File",
           "artifact": {
             "size": 246970,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/topo/cache/r.0.-1.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/topo/cache/r.0.-1.mca",
             "path": "journeymap/data/mp/Minecraft~/overworld/topo/cache/r.0.-1.mca"
           }
         },
@@ -2076,7 +2076,7 @@
           "type": "File",
           "artifact": {
             "size": 25842,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/topo/cache/r.0.0.mca",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/overworld/topo/cache/r.0.0.mca",
             "path": "journeymap/data/mp/Minecraft~/overworld/topo/cache/r.0.0.mca"
           }
         },
@@ -2086,7 +2086,7 @@
           "type": "File",
           "artifact": {
             "size": 1239,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/waypoints/backup/WaypointData.dat",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/waypoints/backup/WaypointData.dat",
             "path": "journeymap/data/mp/Minecraft~/waypoints/backup/WaypointData.dat"
           }
         },
@@ -2096,7 +2096,7 @@
           "type": "File",
           "artifact": {
             "size": 1239,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/journeymap/data/mp/Minecraft~/waypoints/WaypointData.dat",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/journeymap/data/mp/Minecraft~/waypoints/WaypointData.dat",
             "path": "journeymap/data/mp/Minecraft~/waypoints/WaypointData.dat"
           }
         },
@@ -2106,7 +2106,7 @@
           "type": "File",
           "artifact": {
             "size": 5863,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/options.txt",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -2116,7 +2116,7 @@
           "type": "File",
           "artifact": {
             "size": 424483,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/resourcepacks/BM%20Jua.zip",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/resourcepacks/BM%20Jua.zip",
             "MD5": "dd5eea9925e8d0beeae66f9c423fe613",
             "path": "resourcepacks/BM Jua.zip"
           }
@@ -2127,7 +2127,7 @@
           "type": "File",
           "artifact": {
             "size": 15823,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/resourcepacks/fixed-walls.zip",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/resourcepacks/fixed-walls.zip",
             "MD5": "b53886f9e803e9500b6527e2962edd54",
             "path": "resourcepacks/fixed-walls.zip"
           }
@@ -2138,7 +2138,7 @@
           "type": "File",
           "artifact": {
             "size": 70347,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/resourcepacks/Mod%20Menu%20Helper.zip",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/resourcepacks/Mod%20Menu%20Helper.zip",
             "MD5": "c73a26370b01a5e1e196a0760e509c02",
             "path": "resourcepacks/Mod Menu Helper.zip"
           }
@@ -2149,7 +2149,7 @@
           "type": "File",
           "artifact": {
             "size": 998,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/resourcepacks/resourcepack.zip",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/resourcepacks/resourcepack.zip",
             "MD5": "860d1f5f493ebfd0807fb8ffab377695",
             "path": "resourcepacks/resourcepack.zip"
           }
@@ -2160,7 +2160,7 @@
           "type": "File",
           "artifact": {
             "size": 225093,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/resourcepacks/SodiumTranslations.zip",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/resourcepacks/SodiumTranslations.zip",
             "MD5": "74dffded02bf7684d0151951e9701263",
             "path": "resourcepacks/SodiumTranslations.zip"
           }
@@ -2171,7 +2171,7 @@
           "type": "File",
           "artifact": {
             "size": 500699,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.6.1%20(1).zip",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.6.1%20(1).zip",
             "MD5": "3f83f81df2ad4608d830017425b45bac",
             "path": "shaderpacks/ComplementaryUnbound_r5.6.1 (1).zip"
           }
@@ -2182,7 +2182,7 @@
           "type": "File",
           "artifact": {
             "size": 51,
-            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/Diacuplauncher-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.6.1%20(1).zip.txt",
+            "url": "https://github.com/mchdistro/Diacuplauncher/raw/main/servers/v1-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.6.1%20(1).zip.txt",
             "MD5": "32b6403c965994644728a5e252282017",
             "path": "shaderpacks/ComplementaryUnbound_r5.6.1 (1).zip.txt"
           }
